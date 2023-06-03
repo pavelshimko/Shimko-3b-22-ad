@@ -1,5 +1,5 @@
 arr = [1, 2, 3, 4, 5]
 
-s = arr[::-1]
+arr.reverse()
 
-print(s)
+print(arr)
